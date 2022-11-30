@@ -1,1 +1,2 @@
--e#!/bin/bash\nmkdir
+#!/bin/bash
+mkdir my_first_directory /tmp/
