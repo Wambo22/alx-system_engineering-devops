@@ -1,1 +1,0 @@
-My crazy bash projects
